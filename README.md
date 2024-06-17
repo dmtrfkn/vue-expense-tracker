@@ -1,16 +1,14 @@
-# vue-expense-tracker
+# Vue 3 Expense Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+An expense tracker app built with Vue 3 and the composition API.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+* Add and remove expenses/income
+* Track balance
+* Save data to local storage
+* ```Vue Toastification``` for notifications
+* `<script setup>` syntax (Vue 3.2+)
+* ## Project Setup
 
 ```sh
 npm install
